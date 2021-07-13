@@ -1,0 +1,17 @@
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.AssemblyInfoInputs.cache
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.AssemblyInfo.cs
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\Activity7.deps.json
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\Activity7.dll
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\ref\Activity7.dll
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\Activity7.pdb
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\Activity4.dll
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\Activity5.dll
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\Activity5.pdb
+C:\Users\Aivar\source\repos\Activity7\bin\Debug\net5.0\Activity4.pdb
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.csproj.AssemblyReference.cache
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.csproj.CopyComplete
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.dll
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\ref\Activity7.dll
+C:\Users\Aivar\source\repos\Activity7\obj\Debug\net5.0\Activity7.pdb

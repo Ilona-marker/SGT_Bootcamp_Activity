@@ -1,0 +1,15 @@
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.csproj.AssemblyReference.cache
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.AssemblyInfoInputs.cache
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.AssemblyInfo.cs
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\source\repos\Activity5\bin\Debug\net5.0\Activity5.deps.json
+C:\Users\Aivar\source\repos\Activity5\bin\Debug\net5.0\Activity5.dll
+C:\Users\Aivar\source\repos\Activity5\bin\Debug\net5.0\ref\Activity5.dll
+C:\Users\Aivar\source\repos\Activity5\bin\Debug\net5.0\Activity5.pdb
+C:\Users\Aivar\source\repos\Activity5\bin\Debug\net5.0\Activity4.dll
+C:\Users\Aivar\source\repos\Activity5\bin\Debug\net5.0\Activity4.pdb
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.csproj.CopyComplete
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.dll
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\ref\Activity5.dll
+C:\Users\Aivar\source\repos\Activity5\obj\Debug\net5.0\Activity5.pdb

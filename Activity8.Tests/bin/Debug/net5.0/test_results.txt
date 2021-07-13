@@ -1,0 +1,26 @@
+﻿PASS (100ms): Initialization
+PASS (0ms): Add(i=0)
+PASS (0ms): Add(i=1)
+PASS (0ms): Add(i=2)
+PASS (0ms): Indexer[0] get
+PASS (0ms): Indexer[1] get
+PASS (0ms): Indexer[2] get
+PASS (0ms): Add(i=0)
+PASS (0ms): Insert(i=2)
+PASS (0ms): Indexer[2] get
+PASS (0ms): Indexer[3] get
+PASS (0ms): IndexOf(i=3)
+PASS (0ms): Contains(i=3)
+PASS (0ms): Remove(i=3)
+PASS (0ms): IndexOf(i=-1)
+PASS (0ms): Contains(i=-1)
+PASS (0ms): Indexer[2] set
+PASS (0ms): Indexer[2] get
+PASS (0ms): Contains(i=-1)
+PASS (38ms): Insert(10)
+PASS (19ms): Add(null)
+PASS (17ms): Insert(-1)
+PASS (28ms): Insert(0, null)
+PASS (18ms): Remove(null)
+PASS (16ms): Contains(null)
+PASS (17ms): IndexOf(null)

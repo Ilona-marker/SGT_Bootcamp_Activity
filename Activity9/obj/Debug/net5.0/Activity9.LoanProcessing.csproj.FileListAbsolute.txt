@@ -1,0 +1,16 @@
+C:\Users\Aivar\source\repos\Activity9\bin\Debug\net5.0\Activity9.LoanProcessing.exe
+C:\Users\Aivar\source\repos\Activity9\bin\Debug\net5.0\Activity9.LoanProcessing.deps.json
+C:\Users\Aivar\source\repos\Activity9\bin\Debug\net5.0\Activity9.LoanProcessing.runtimeconfig.json
+C:\Users\Aivar\source\repos\Activity9\bin\Debug\net5.0\Activity9.LoanProcessing.runtimeconfig.dev.json
+C:\Users\Aivar\source\repos\Activity9\bin\Debug\net5.0\Activity9.LoanProcessing.dll
+C:\Users\Aivar\source\repos\Activity9\bin\Debug\net5.0\ref\Activity9.LoanProcessing.dll
+C:\Users\Aivar\source\repos\Activity9\bin\Debug\net5.0\Activity9.LoanProcessing.pdb
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.csproj.AssemblyReference.cache
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.AssemblyInfoInputs.cache
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.AssemblyInfo.cs
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.dll
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\ref\Activity9.LoanProcessing.dll
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.pdb
+C:\Users\Aivar\source\repos\Activity9\obj\Debug\net5.0\Activity9.LoanProcessing.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Activity7/1.0.0": {
+        "dependencies": {
+          "Activity5": "1.0.0"
+        },
+        "runtime": {
+          "Activity7.dll": {}
+        }
+      },
+      "Activity4/1.0.0": {
+        "runtime": {
+          "Activity4.dll": {}
+        }
+      },
+      "Activity5/1.0.0": {
+        "dependencies": {
+          "Activity4": "1.0.0"
+        },
+        "runtime": {
+          "Activity5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Activity4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Activity5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

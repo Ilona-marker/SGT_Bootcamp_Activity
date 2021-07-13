@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Activity9.LoanProcessing/1.0.0": {
+        "runtime": {
+          "Activity9.LoanProcessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity9.LoanProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

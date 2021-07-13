@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Activity9.TrainEvents/1.0.0": {
+        "runtime": {
+          "Activity9.TrainEvents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity9.TrainEvents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

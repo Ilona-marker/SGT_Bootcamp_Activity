@@ -1,0 +1,16 @@
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\bin\Debug\net5.0\Activity9.TrainEvents.exe
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\bin\Debug\net5.0\Activity9.TrainEvents.deps.json
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\bin\Debug\net5.0\Activity9.TrainEvents.runtimeconfig.json
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\bin\Debug\net5.0\Activity9.TrainEvents.runtimeconfig.dev.json
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\bin\Debug\net5.0\Activity9.TrainEvents.dll
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\bin\Debug\net5.0\ref\Activity9.TrainEvents.dll
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\bin\Debug\net5.0\Activity9.TrainEvents.pdb
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.csproj.AssemblyReference.cache
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.AssemblyInfoInputs.cache
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.AssemblyInfo.cs
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.dll
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\ref\Activity9.TrainEvents.dll
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.pdb
+C:\Users\Aivar\source\repos\Activity9.TrainEvents\obj\Debug\net5.0\Activity9.TrainEvents.genruntimeconfig.cache
